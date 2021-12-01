@@ -5,7 +5,7 @@ Multisignature wallet is a crypto wallet on the blockchain, which supports multi
 
 ### For easy manage smartcontract you can use [TONDev](https://github.com/tonlabs/tondev#tondev)
 
-### 1. Build by version
+### 1. Use for build
 ```bash
 TONDev Version: 0.10.5
 
