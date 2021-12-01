@@ -28,19 +28,19 @@ tondev sol compile SafeMultisigWallet24.sol
 
 ### 6. Check contract address and charge it from any wallet
 ```bash
-tondev contract info SafeMultisigWallet24.sol
+tondev contract info SafeMultisigWallet24.abi.json
 ```
 ### 7. Deploy contract to blockchain
 ```bash
-tondev contract deploy SafeMultisigWallet24.sol
+tondev contract deploy SafeMultisigWallet24.abi.json
 ```
 ### 8. Read your contract info from blockchain
 ```bash
-tondev contract run-local SafeMultisigWallet24.sol
+tondev contract run-local SafeMultisigWallet24.abi.json
 ```
 ### 9. Manage your contract on-chain
 ```bash
-tondev contract run SafeMultisigWallet24.sol
+tondev contract run SafeMultisigWallet24.abi.json
 ```
 
 
